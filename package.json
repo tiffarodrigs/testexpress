@@ -1,0 +1,23 @@
+{
+  "name": "testexpress",
+  "version": "1.0.0",
+  "description": "this is a test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiffarodrigs/testexpress.git"
+  },
+  "author": "tiffa.rodrigs@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiffarodrigs/testexpress/issues"
+  },
+  "homepage": "https://github.com/tiffarodrigs/testexpress#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
